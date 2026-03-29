@@ -1,6 +1,5 @@
 # Contributors
 - [Luca-Python](https://github.com/luca-python)
-- [457thing](https://github.com.457thing)
 - [Benhein Michael Ruben L](https://github.com/ben002mr)
 - [Diana Araujo](https://github.com/dianadesiree)
 -[Sutharsan Albert](https://github.com/softwarefarmer)
@@ -1863,6 +1862,7 @@ Rithvik
 - [TwoTATI](https://github.com/TwoTATI)
 - [Mohit](https://github.com/mohitsingh34)
 - [nush1729](https://github.com/nush1729)
+- [457thing](https://github.com/457thing)
 - [Moh](https://github.com/mohmohwin2010)
 - [Rezwan Mahmud](https://github.com/rezwan0x01)
 - [Zakwan Dadabhai](https://github.com/ZakwanCodes)
